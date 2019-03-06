@@ -38,3 +38,7 @@ export function setContinent(name) {
          name
     }
 }
+
+//search(event) {
+//        this.props.dispatch(searchCountries(event.target.value));
+//}
